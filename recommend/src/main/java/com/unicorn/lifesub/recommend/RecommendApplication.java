@@ -14,4 +14,3 @@ public class RecommendApplication {
         SpringApplication.run(RecommendApplication.class, args);
     }
 }
-
