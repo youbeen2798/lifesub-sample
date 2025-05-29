@@ -10,6 +10,7 @@ image_org=dg0400
 # Application Settings
 replicas=1
 allowed_origins=http://20.214.195.54
+ingress_host=dg0400.20.214.196.128.nip.io
 
 # Security Settings
 jwt_secret_key=8O2HQ13etL2BWZvYOiWsJ5uWFoLi6NBUG8divYVoCgtHVvlk3dqRksMl16toztDUeBTSIuOOPvHIrYq11G2BwQ

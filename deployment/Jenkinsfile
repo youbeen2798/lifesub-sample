@@ -150,6 +150,7 @@ testcontainers.reuse.enable=true'''
                 sh """
                     export namespace=${namespace}
                     export allowed_origins=${props.allowed_origins}
+                    export ingress_host=${props.ingress_host}
                     export jwt_secret_key=${props.jwt_secret_key}
                     export postgres_user=${props.postgres_user}
                     export postgres_password=${props.postgres_password}
