@@ -1,20 +1,20 @@
 # Team Settings
-teamid=dg0400
+teamid=dg0418
 root_project=lifesub
-namespace=dg0400-lifesub-ns
+namespace=dg0418-lifesub-ns
 
 # Container Registry Settings
-registry=acrdigitalgarage01.azurecr.io
-image_org=dg0400
+registry=acrdigitalgarage03.azurecr.io
+image_org=dg0418
 
 # Application Settings
 replicas=1
-allowed_origins=http://20.214.195.54
-ingress_host=dg0400.20.214.196.128.nip.io
+allowed_origins=http://20.249.199.247
+ingress_host=dg0418.20.249.191.180.nip.io
 
 # Security Settings
 jwt_secret_key=8O2HQ13etL2BWZvYOiWsJ5uWFoLi6NBUG8divYVoCgtHVvlk3dqRksMl16toztDUeBTSIuOOPvHIrYq11G2BwQ
-postgres_user=dg0400
+postgres_user=dg0418
 postgres_password=Hi5Jessica!
 
 # Resource Settings
